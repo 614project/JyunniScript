@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Company>614project</Company>
+    <Product>Jyunni Script</Product>
+    <Description>614의 새로운 인터프리터 언어입니다.
+email: 614@naoul.com
+discord: 614#5020</Description>
+    <Copyright>(c) 614Project. All rights reserved.</Copyright>
+    <PackageProjectUrl>https://614.kro.kr</PackageProjectUrl>
+    <PackageTags>compiler;language;</PackageTags>
+    <PackageReleaseNotes>기본적인 기능 추가</PackageReleaseNotes>
+    <FileVersion>0.0.1</FileVersion>
+    <StartupObject>Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
