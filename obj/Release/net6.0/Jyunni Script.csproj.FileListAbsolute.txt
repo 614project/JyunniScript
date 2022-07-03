@@ -1,0 +1,15 @@
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\bin\Release\net6.0\Jyunni Script.exe
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\bin\Release\net6.0\Jyunni Script.deps.json
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\bin\Release\net6.0\Jyunni Script.runtimeconfig.json
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\bin\Release\net6.0\Jyunni Script.dll
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\bin\Release\net6.0\Jyunni Script.pdb
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\Jyunni Script.csproj.AssemblyReference.cache
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\Jyunni Script.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\Jyunni Script.AssemblyInfoInputs.cache
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\Jyunni Script.AssemblyInfo.cs
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\Jyunni Script.csproj.CoreCompileInputs.cache
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\Jyunni Script.dll
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\refint\Jyunni Script.dll
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\Jyunni Script.pdb
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\Jyunni Script.genruntimeconfig.cache
+d:\Desktop\잘안쓰는 프로젝트\NewLaunguage\obj\Release\net6.0\ref\Jyunni Script.dll

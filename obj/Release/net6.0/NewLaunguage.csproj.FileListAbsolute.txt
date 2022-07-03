@@ -1,0 +1,15 @@
+d:\Desktop\NewLaunguage\bin\Release\net6.0\NewLaunguage.exe
+d:\Desktop\NewLaunguage\bin\Release\net6.0\NewLaunguage.deps.json
+d:\Desktop\NewLaunguage\bin\Release\net6.0\NewLaunguage.runtimeconfig.json
+d:\Desktop\NewLaunguage\bin\Release\net6.0\NewLaunguage.dll
+d:\Desktop\NewLaunguage\bin\Release\net6.0\NewLaunguage.pdb
+d:\Desktop\NewLaunguage\obj\Release\net6.0\NewLaunguage.csproj.AssemblyReference.cache
+d:\Desktop\NewLaunguage\obj\Release\net6.0\NewLaunguage.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desktop\NewLaunguage\obj\Release\net6.0\NewLaunguage.AssemblyInfoInputs.cache
+d:\Desktop\NewLaunguage\obj\Release\net6.0\NewLaunguage.AssemblyInfo.cs
+d:\Desktop\NewLaunguage\obj\Release\net6.0\NewLaunguage.csproj.CoreCompileInputs.cache
+d:\Desktop\NewLaunguage\obj\Release\net6.0\NewLaunguage.dll
+d:\Desktop\NewLaunguage\obj\Release\net6.0\refint\NewLaunguage.dll
+d:\Desktop\NewLaunguage\obj\Release\net6.0\NewLaunguage.pdb
+d:\Desktop\NewLaunguage\obj\Release\net6.0\NewLaunguage.genruntimeconfig.cache
+d:\Desktop\NewLaunguage\obj\Release\net6.0\ref\NewLaunguage.dll
